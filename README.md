@@ -16,7 +16,7 @@
 
 
 #### Shortcuts
- * For home click [here][home].
+ * For home click [here][home]
  * For my personal heroes click [here][personal heroes]
  * For about me click [here][about me]
  * For a block of code I wrote click [here][code block]
