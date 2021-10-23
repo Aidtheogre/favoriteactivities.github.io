@@ -25,5 +25,5 @@
 [home]: https://aidtheogre.github.io
 [personal heroes]: https://aidtheogre.github.io/heroes.github.io/
 [about me]: https://aidtheogre.github.io/aboutme.github.io/
-[code block]: www.github.com  
+[code block]: https://aidtheogre.github.io/Blockofcode.github.io/
 
